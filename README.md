@@ -1,4 +1,10 @@
 ### 👋 Hi there, I'm Yanko, but I go by jYannni online.
+<a href="https://www.github.com/jYannni/github-readme-stats">
+  <img alt="My GitHub stats" align="center" src="https://github-readme-stats.vercel.app/api?username=jyannni&show_icons=true&rank_icon=github)](https://github.com/jyannni/github-readme-stats" width="55%">
+</a>
+<a href="https://www.github.com/jYannni/top-langs">
+  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jYannni&layout=compact&size_weight=0.5&count_weight=0.5" width="42%">
+</a>
 
 ## 🌱 A little about me:
 - My background has been in IT, it started off in Support and administration but as the years have gone by, my interest in building apps and websites has grown and I have developed a want to learn and create my own. This lead me to go to take part in, and complete, a bootcamp in Web Development where I learnt how to code, learning the basics in HTML, CSS, Javascript, Ruby and Ruby on Rails.
@@ -18,7 +24,14 @@
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/Yanko.Thomson) and [Instagram](https://www.instagram.com/jYannni.developer).
 - For collaborations or inquiries, you can email me at [yanko+developer](mailto:yanko+developer@thomsonfamily.org) or [yanko+inquiries](mailto:yanko+inquiries@thomsonfamily.org).
 
-
+## ❤️ If you're feeling generous:
+[![paypal.me/jyannni](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/jyannni) - You can make a donations via PayPal. I'll probably buy ~~a coffee~~ some pizza 🍕!
+<br/>
+or
+<br/>
+<a href="https://www.buymeacoffee.com/jyannni" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Slice" height="41" width="174">
+</a>
 <!--
 **jYannni/jYannni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
