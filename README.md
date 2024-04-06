@@ -25,7 +25,7 @@
 - For collaborations or inquiries, you can email me at [yanko+developer](mailto:yanko+developer@thomsonfamily.org) or [yanko+inquiries](mailto:yanko+inquiries@thomsonfamily.org).
 
 ## ❤️ If you're feeling generous:
-[![paypal.me/jyannni](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/jyannni) - You can make a donations via PayPal. I'll probably buy ~~a coffee~~ some pizza 🍕!
+[![paypal.me/jyannni](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/jyannni) - You can make a donation to me via PayPal. I'll probably buy ~~a coffee~~ some pizza 🍕!
 <br/>
 or
 <br/>
