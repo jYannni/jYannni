@@ -16,7 +16,7 @@
 
 ## 📫 How to reach me:
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/Yanko.Thomson) and [Instagram](https://www.instagram.com/jYannni.developer).
-- For collaborations or inquiries, you can email me at [yanko+developer@thomsonfamily.org](mailto:yanko+developer@thomsonfamily.org) or [yanko+inquiries@thomsonfamily.org](mailto:yanko+inquiries@thomsonfamily.org).
+- For collaborations or inquiries, you can email me at [yanko+developer](mailto:yanko+developer@thomsonfamily.org) or [yanko+inquiries](mailto:yanko+inquiries@thomsonfamily.org).
 
 
 <!--
