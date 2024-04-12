@@ -25,7 +25,7 @@
 
 <div align="center">
 
-  <p> The stacks and languages I have learnt or currently learning are: </p>
+  <p> The stacks and languages I have learnt and use or currently learning are: </p>
 
   <table>
     <tr align="center">
