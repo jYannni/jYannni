@@ -21,40 +21,40 @@
   I have also recently gone through a lot of serious life changes, from quitting smoking, joining a gym and going regularly, to taking part in charity events, such as Macmillan's "100 push-up a day in April" and raising funds for the Little Princess Trust, where I shall be shaving my head and donating my hair to help create a wig for those affected by cancer and other conditions that has caused them to lose their hair, I've started eating healthier and trying to improve my health as the charities I am trying to help have made me realise I need to do better in my own life to be able to help others.
 </div>
 
-## Tech Stack
+## Programming Languages and Development Tools
 
 <div align="center">
 
-  <p> The stacks and languages I have learnt and use or currently learning are: </p>
+  <p> The stacks and languages I have learned and use, or am currently learning, encompass a broad spectrum of both front-end and back-end technologies, as well as the deployment and version control systems essential for modern full-stack development. I leverage Ruby and its popular Rails framework for robust back-end development, while React and React Native power my interactive user interfaces. For server-side operations, Node.js is my go-to, and with Next.js, I build server-rendered React applications with ease. TypeScript adds strong typing to my JavaScript code, increasing maintainability and robustness. Styling is handled gracefully with Tailwind's utility-first CSS framework and Bootstrap's responsive design templates. I manage databases with Prisma for seamless data modeling and PostgreSQL for its reliability and SQL support, while SQLite offers a lightweight alternative. On the design front, Figma aids in my UI/UX design process. My projects are version-controlled with Git, hosted on GitHub, and deployed via platforms like Heroku, Vercel, and now Railway.app, the latter allowing me to rapidly roll out applications with a suite of infrastructure tools at my disposal.
+  </p>
 
   <table>
     <tr align="center">
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/121px-Ruby_logo.svg.png" alt="Ruby" width="100"/><br/>Ruby</td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/120px-React_Logo_SVG.svg.png" alt="React" width="100"/><br/>React</td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/120px-Node.js_logo.svg.png" alt="Node.js" width="100"/><br/>Node.Js</td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="JavaScript" width="100"/><br/>Javascript</td>
-      <td><img src="https://svglogos.net/wp-content/uploads/heroku-icon.svg" alt="Heroku" width="100"/><br/>Heroku</td>
-    </tr>
-    <tr align="center">
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/120px-Ruby_On_Rails_Logo.svg.png" alt="Ruby on Rails" width="100"/><br/>Ruby on Rails</td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/120px-React-icon.svg.png" alt="React Native" width="100"/><br/>React Native</td>
-      <td><img src="https://seekicon.com/free-icon-download/next-js_1.svg" alt="Next.js" width="100"/><br/>Next.Js</td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/64px-Typescript.svg.png" alt="TypeScript" width="100"/><br/>TypeScript</td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/220px-Vercel_logo_black.svg.png" alt="Vercel" width="100"/><br/>Vercel</td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" alt="Prisma" width="100"/><br/>Prisma</td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwind" width="100"/><br/>Tailwind</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="100"/><br/>PostgreSQL</td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/120px-Bootstrap_logo.svg.png" alt="Bootstrap" width="100"/><br/>Bootstrap</td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/64px-Figma-logo.svg.png" alt="Figma" width="100"/><br/>Figma</td>
-      <td><img src="https://www.svgrepo.com/show/374094/sqlite.svg" alt="SQLite" width="100"/><br/>SQLite</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="100"/><br/>HTML</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="100"/><br/>CSS</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="JavaScript" width="100"/><br/>Javascript</td>
     </tr>
     <tr align="center">
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/200px-GitHub_Invertocat_Logo.svg.png" alt="GitHub" width="100"/><br/>GitHub</td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="100"/><br/>PostgreSQL</td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="100"/><br/>CSS</td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="100"/><br/>HTML</td>
       <td><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="100"/><br/>Git</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/64px-Figma-logo.svg.png" alt="Figma" width="100"/><br/>Figma</td>
+      <td><img src="https://svglogos.net/wp-content/uploads/heroku-icon.svg" alt="Heroku" width="100"/><br/>Heroku</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/220px-Vercel_logo_black.svg.png" alt="Vercel" width="100"/><br/>Vercel</td>
+      <td><img src="https://asset.brandfetch.io/idOUDWneZx/idTNFotqAV.jpeg" alt="Railway.app" width="100"/><br/>Railway.app</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwind" width="100"/><br/>Tailwind</td>
+    </tr>
+    <tr align="center">
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/120px-React_Logo_SVG.svg.png" alt="React" width="100"/><br/>React</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/120px-React-icon.svg.png" alt="React Native" width="100"/><br/>React Native</td>
+      <td><img src="https://seekicon.com/free-icon-download/next-js_1.svg" alt="Next.js" width="100"/><br/>Next.Js</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/120px-Node.js_logo.svg.png" alt="Node.js" width="100"/><br/>Node.Js</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/64px-Typescript.svg.png" alt="TypeScript" width="100"/><br/>TypeScript</td>
+      <td><img src="https://www.svgrepo.com/show/374094/sqlite.svg" alt="SQLite" width="100"/><br/>SQLite</td>
+      <td><img src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" alt="Prisma" width="100"/><br/>Prisma</td>
     </tr>
   </table>
 
