@@ -23,11 +23,11 @@
 
 ## Programming Languages and Development Tools
 
+<p align="justify">
+The stacks and languages I have learned and use, or am currently learning, encompass a broad spectrum of both front-end and back-end technologies, as well as the deployment and version control systems essential for modern full-stack development. I leverage Ruby and its popular Rails framework for robust back-end development, while React and React Native power my interactive user interfaces. For server-side operations, Node.js is my go-to, and with Next.js, I build server-rendered React applications with ease. TypeScript adds strong typing to my JavaScript code, increasing maintainability and robustness. Styling is handled gracefully with Tailwind's utility-first CSS framework and Bootstrap's responsive design templates. I manage databases with Prisma for seamless data modeling and PostgreSQL for its reliability and SQL support, while SQLite offers a lightweight alternative. On the design front, Figma aids in my UI/UX design process. My projects are version-controlled with Git, hosted on GitHub, and deployed via platforms like Heroku, Vercel, and now Railway.app, the latter allowing me to rapidly roll out applications with a suite of infrastructure tools at my disposal.
+</p>
+
 <div align="center">
-
-  <p> The stacks and languages I have learned and use, or am currently learning, encompass a broad spectrum of both front-end and back-end technologies, as well as the deployment and version control systems essential for modern full-stack development. I leverage Ruby and its popular Rails framework for robust back-end development, while React and React Native power my interactive user interfaces. For server-side operations, Node.js is my go-to, and with Next.js, I build server-rendered React applications with ease. TypeScript adds strong typing to my JavaScript code, increasing maintainability and robustness. Styling is handled gracefully with Tailwind's utility-first CSS framework and Bootstrap's responsive design templates. I manage databases with Prisma for seamless data modeling and PostgreSQL for its reliability and SQL support, while SQLite offers a lightweight alternative. On the design front, Figma aids in my UI/UX design process. My projects are version-controlled with Git, hosted on GitHub, and deployed via platforms like Heroku, Vercel, and now Railway.app, the latter allowing me to rapidly roll out applications with a suite of infrastructure tools at my disposal.
-  </p>
-
   <table>
     <tr align="center">
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/121px-Ruby_logo.svg.png" alt="Ruby" width="100"/><br/>Ruby</td>
